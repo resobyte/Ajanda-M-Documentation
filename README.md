@@ -1,6 +1,9 @@
 <h2>Ajanda-M Documentation Repo</h2>
 <p> Burada yapılacak olan Öğrenci ders kontrol sisteminin dökümanı yazılacaktır. </p>
 
+## Uygulamanın Amacı
+Üniversite öğrencileri ve hocalarına yönelik , ders ve devamsızlık takibini yapmaktır.
+
 <h1>Task List</h1>
 <ol>
 <li>Proje de kaç tane rol olacak? (Öğrenci,Akademisyen) </li>
@@ -11,4 +14,5 @@
 <li>Kullanılacak teknoloji seçimi nasıl olacak? </li>
 <li>Kullanılan teknolojinin eksileri ve artıları nelerdir? </li>
 <li>Tasarımın 3rd party yazılımlar ile şablona dökülmesi işlemi nasıl yapılacak?</li>
+<li>Gerçekleştirilecek devamsızlık takibi nasıl sağlanacak?</li> 
 </ol>
