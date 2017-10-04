@@ -25,7 +25,7 @@
 kullanıcıya hatırlatma bildirim alarmını vererek kullanıcının uyarılması sağlanılacaktır.</li>
 <li>Öğretim görevlisi uygulama içersinde vermiş olduğu ders hakkında bildirimler atabilecektir.</li>
 <li>Vermiş olduğu dersleri hangi öğrencilerin almış olduğunu görebilecektir. </li>
-<li>Öğrenci ders yoklama sürecini aktif hala getirebilecektir.<li/>
+<li>Öğrenci ders yoklama sürecini aktif hale getirebilecektir.</li>
 <li>Hangi öğrencinin ne kadar devamsızlık yaptığını görebilecektir.</li>
 </ol>
 
